@@ -17,7 +17,7 @@ If you're from TGC — you already know what’s up.
 - `🔥 bonus/` – everything else that doesn’t fit but is too cursed to delete
 
 ---
-
+ 
 ## ⚒️ Who is this for?
 
 - People who think copying payloads from screenshots is cringe  
